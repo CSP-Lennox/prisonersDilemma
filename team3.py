@@ -6,7 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 import random
-team_name = 'The poor Bandit' # Only 10 chars displayed.
+team_name = 'The poor Bandits' # Only 10 chars displayed.
 strategy_name = 'Bandit'
 strategy_description = 'How does this strategy decide?'
     
